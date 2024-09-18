@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mithun0017
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
