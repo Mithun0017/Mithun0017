@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mithun0017
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning C++ Programming
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 How to reach me Email ID : mithun200617@gmail.com
 
