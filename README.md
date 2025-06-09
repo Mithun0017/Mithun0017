@@ -63,3 +63,7 @@ Microsoft Office 2019 Professional Plus:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun0017)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithun0017)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mithun0017)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x-formerly-twitter&logoColor=white)](https://x.com/mithun1710)
+
+
