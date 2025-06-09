@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 ### 👨‍💻 About Me
 
 - 🎓 I'm passionate about transforming ideas into visuals through code.
-- 💡 Always curious to explore **tech + art**
-- 🚀 Love building fun projects and automating boring stuff
+- 💡 Always curious to explore **tech + art**.
+- 🚀 Love building fun projects and automating stuffs.
 
 
 ---
