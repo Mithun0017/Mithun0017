@@ -29,6 +29,7 @@ Programming Languages & Databases:
   - HTML 🌐
   - CSS 🎨
   - JavaScript 🧠
+  - React ⚛️
   - MySQL 🐬
 
 Creative Suite (Adobe CS3 Master Collection):
