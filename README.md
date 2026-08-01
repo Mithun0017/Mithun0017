@@ -702,3 +702,210 @@ design with powerful engineering.
 <!--                 END OF PART 1                             -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!--                  TECH ARSENAL                             -->
+<!-- ========================================================= -->
+
+# 💻 Tech Arsenal
+
+<div align="center">
+
+> **Technologies I use to transform ideas into scalable, beautiful and intelligent applications.**
+
+</div>
+
+<br>
+
+# 👨‍💻 Programming Languages
+
+<div align="center">
+
+<img src="assets/icons/languages/python.svg" width="55"/>
+<img src="assets/icons/languages/java.svg" width="55"/>
+<img src="assets/icons/languages/c.svg" width="55"/>
+<img src="assets/icons/languages/cpp.svg" width="55"/>
+<img src="assets/icons/languages/javascript.svg" width="55"/>
+<img src="assets/icons/languages/php.svg" width="55"/>
+
+</div>
+
+---
+
+# 🌐 Frontend Development
+
+<div align="center">
+
+<img src="assets/icons/frontend/html.svg" width="55"/>
+<img src="assets/icons/frontend/css.svg" width="55"/>
+<img src="assets/icons/frontend/bootstrap.svg" width="55"/>
+<img src="assets/icons/frontend/react.svg" width="55"/>
+<img src="assets/icons/frontend/vite.svg" width="55"/>
+
+</div>
+
+---
+
+# ⚙ Backend Development
+
+<div align="center">
+
+<img src="assets/icons/backend/nodejs.svg" width="55"/>
+<img src="assets/icons/backend/flask.svg" width="55"/>
+<img src="assets/icons/backend/php.svg" width="55"/>
+<img src="assets/icons/backend/socketio.svg" width="55"/>
+
+</div>
+
+---
+
+# 🗄 Databases
+
+<div align="center">
+
+<img src="assets/icons/database/mysql.svg" width="55"/>
+<img src="assets/icons/database/mongodb.svg" width="55"/>
+<img src="assets/icons/database/sqlite.svg" width="55"/>
+<img src="assets/icons/database/postgresql.svg" width="55"/>
+<img src="assets/icons/database/mariadb.svg" width="55"/>
+
+</div>
+
+---
+
+# 🤖 Artificial Intelligence
+
+<div align="center">
+
+<img src="assets/icons/ai/tensorflow.svg" width="55"/>
+<img src="assets/icons/ai/pytorch.svg" width="55"/>
+<img src="assets/icons/ai/keras.svg" width="55"/>
+<img src="assets/icons/ai/scikitlearn.svg" width="55"/>
+<img src="assets/icons/ai/opencv.svg" width="55"/>
+<img src="assets/icons/ai/huggingface.svg" width="55"/>
+
+</div>
+
+---
+
+# 📊 Data Science
+
+<div align="center">
+
+<img src="assets/icons/ai/numpy.svg" width="55"/>
+<img src="assets/icons/ai/pandas.svg" width="55"/>
+<img src="assets/icons/ai/matplotlib.svg" width="55"/>
+<img src="assets/icons/ai/plotly.svg" width="55"/>
+<img src="assets/icons/ai/scipy.svg" width="55"/>
+
+</div>
+
+---
+
+# ☁ Cloud Technologies
+
+<div align="center">
+
+<img src="assets/icons/cloud/azure.svg" width="55"/>
+<img src="assets/icons/cloud/aws.svg" width="55"/>
+
+</div>
+
+---
+
+# 🔧 Development Tools
+
+<div align="center">
+
+<img src="assets/icons/devtools/git.svg" width="55"/>
+<img src="assets/icons/devtools/github.svg" width="55"/>
+<img src="assets/icons/devtools/postman.svg" width="55"/>
+<img src="assets/icons/devtools/xampp.svg" width="55"/>
+<img src="assets/icons/devtools/npm.svg" width="55"/>
+<img src="assets/icons/devtools/yarn.svg" width="55"/>
+
+</div>
+
+---
+
+# 💻 IDEs & Editors
+
+<div align="center">
+
+<img src="assets/icons/ide/vscode.svg" width="55"/>
+<img src="assets/icons/ide/eclipse.svg" width="55"/>
+<img src="assets/icons/ide/visualstudio.svg" width="55"/>
+<img src="assets/icons/ide/geany.svg" width="55"/>
+<img src="assets/icons/ide/notepadpp.svg" width="55"/>
+
+</div>
+
+---
+
+# 🖥 Operating Systems
+
+<div align="center">
+
+<img src="assets/icons/os/windows.svg" width="55"/>
+<img src="assets/icons/os/linux.svg" width="55"/>
+
+</div>
+
+---
+
+# 🎨 Adobe Creative Suite
+
+<div align="center">
+
+<img src="assets/icons/adobe/photoshop.svg" width="55"/>
+<img src="assets/icons/adobe/illustrator.svg" width="55"/>
+<img src="assets/icons/adobe/premierepro.svg" width="55"/>
+<img src="assets/icons/adobe/aftereffects.svg" width="55"/>
+<img src="assets/icons/adobe/indesign.svg" width="55"/>
+<img src="assets/icons/adobe/lightroom.svg" width="55"/>
+<img src="assets/icons/adobe/lightroomclassic.svg" width="55"/>
+<img src="assets/icons/adobe/dreamweaver.svg" width="55"/>
+<img src="assets/icons/adobe/xd.svg" width="55"/>
+<img src="assets/icons/adobe/bridge.svg" width="55"/>
+<img src="assets/icons/adobe/acrobat.svg" width="55"/>
+<img src="assets/icons/adobe/audition.svg" width="55"/>
+
+</div>
+
+---
+
+# 📊 Microsoft Office
+
+<div align="center">
+
+<img src="assets/icons/microsoft/word.svg" width="55"/>
+<img src="assets/icons/microsoft/excel.svg" width="55"/>
+<img src="assets/icons/microsoft/powerpoint.svg" width="55"/>
+<img src="assets/icons/microsoft/access.svg" width="55"/>
+<img src="assets/icons/microsoft/outlook.svg" width="55"/>
+<img src="assets/icons/microsoft/onenote.svg" width="55"/>
+<img src="assets/icons/microsoft/publisher.svg" width="55"/>
+
+</div>
+
+---
+
+# ⚡ Version Control
+
+<div align="center">
+
+<img src="assets/icons/versioncontrol/git.svg" width="55"/>
+<img src="assets/icons/versioncontrol/github.svg" width="55"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Continuously expanding my toolkit through learning, experimentation, and real-world projects.
+
+</div>
+
+<!-- ========================================================= -->
+<!--                END OF PART 2                              -->
+<!-- ========================================================= -->
