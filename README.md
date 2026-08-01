@@ -1315,3 +1315,137 @@ A personal playground for experimenting with new technologies, algorithms, UI co
 <!-- ========================================================= -->
 <!--                END OF FEATURED PROJECTS                   -->
 <!-- ========================================================= -->
+
+<!-- ========================================================= -->
+<!--            CERTIFICATIONS & ACHIEVEMENTS                  -->
+<!-- ========================================================= -->
+
+# 🎓 Certifications
+
+<div align="center">
+
+> **Committed to continuous learning through industry-recognized courses, certifications, and hands-on projects.**
+
+</div>
+
+---
+
+## ☁ Cloud Computing
+
+<div align="center">
+
+| Certification | Provider | Status |
+|:--------------|:---------|:------:|
+| Microsoft Azure Essentials | Microsoft | ✅ |
+| Azure AI Fundamentals | Microsoft | ✅ |
+| AI for Nonprofits | Microsoft Elevate | ✅ |
+
+</div>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<div align="center">
+
+| Certification | Provider | Status |
+|:--------------|:---------|:------:|
+| Responsible AI in a Global Context | United Nations University | ✅ |
+| Human Skills in the Age of AI | Microsoft | ✅ |
+| Generative AI & AI Tools | Various | 🚀 |
+
+</div>
+
+---
+
+## 💻 Programming & Development
+
+<div align="center">
+
+| Certification | Provider | Status |
+|:--------------|:---------|:------:|
+| Python Programming | GeeksforGeeks | ✅ |
+| MongoDB Developer's Toolkit | MongoDB | ✅ |
+| Full Stack Web Development | GeeksforGeeks | ✅ |
+| Data Structures & Algorithms | GeeksforGeeks | 🚀 |
+| Machine Learning & Data Science | GeeksforGeeks | 🚀 |
+
+</div>
+
+---
+
+## 📊 Data Analytics
+
+<div align="center">
+
+| Certification | Provider | Status |
+|:--------------|:---------|:------:|
+| GenAI Powered Data Analytics Job Simulation | Tata | ✅ |
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+<div align="center">
+
+| Achievement | Status |
+|:------------|:------:|
+| 🚀 Building Multiple Open Source Projects | ✅ |
+| 💻 Active Competitive Programmer | ✅ |
+| 📚 Continuous Learner | ✅ |
+| 🤖 AI & Full Stack Enthusiast | ✅ |
+| 🎨 Creative Designer | ✅ |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+```text
+🟢 Advanced Data Structures & Algorithms
+🟢 Backend Engineering
+🟢 System Design
+🟢 Machine Learning
+🟢 Artificial Intelligence
+🟢 Cloud Computing
+🟢 Software Architecture
+🟢 Open Source Development
+```
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Progress |
+|:-----|:--------:|
+| ⭐ 1000+ GitHub Contributions | ███████░░░ |
+| 🧩 1000+ Coding Problems Solved | █████░░░░░ |
+| 🚀 Build Production-Ready Projects | ████████░░ |
+| 🌍 Contribute to Open Source | ████░░░░░░ |
+| ☁ Master Cloud Technologies | █████░░░░░ |
+| 🧠 Master System Design | ███░░░░░░░ |
+
+</div>
+
+---
+
+# 🌱 Learning Philosophy
+
+<div align="center">
+
+> **"Learning never exhausts the mind—it only expands what's possible."**
+
+</div>
+
+<!-- ========================================================= -->
+<!--        END OF CERTIFICATIONS & ACHIEVEMENTS               -->
+<!-- ========================================================= -->
