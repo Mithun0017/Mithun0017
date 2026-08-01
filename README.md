@@ -1449,3 +1449,39 @@ A personal playground for experimenting with new technologies, algorithms, UI co
 <!-- ========================================================= -->
 <!--        END OF CERTIFICATIONS & ACHIEVEMENTS               -->
 <!-- ========================================================= -->
+
+# 🤝 Open Source
+
+<div align="center">
+
+I'm always interested in collaborating on:
+
+🌐 Full Stack Development
+
+🤖 Artificial Intelligence
+
+📱 Desktop Applications
+
+☁ Cloud Computing
+
+🧠 Machine Learning
+
+📊 Data Science
+
+🎨 UI/UX Design
+
+🚀 Open Source Projects
+
+</div>
+
+---
+
+# 💬 Let's Connect
+
+<div align="center">
+
+If you're working on an exciting project, have an interesting idea, or just want to connect with a fellow developer, feel free to reach out!
+
+**Let's build something amazing together. 🚀**
+
+</div>
