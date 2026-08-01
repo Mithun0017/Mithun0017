@@ -1485,3 +1485,153 @@ If you're working on an exciting project, have an interesting idea, or just want
 **Let's build something amazing together. 🚀**
 
 </div>
+
+<!-- ========================================================= -->
+<!--          GITHUB ANALYTICS & FINAL FOOTER                  -->
+<!-- ========================================================= -->
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithun0017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mithun0017&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun0017&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun0017&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mithun0017&theme=algolia&column=4&row=2&no-frame=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mithun0017/Mithun0017/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/Mithun0017">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithun0017&repo=ExpenseFlow&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Mithun0017">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithun0017&repo=Sign2Speech&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Mithun0017">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithun0017&repo=Encrypted-Chat&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Mithun0017">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mithun0017&repo=Weather-App&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+> **"Code with purpose. Design with empathy. Learn without limits."**
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Mithun0017">
+<img src="assets/icons/social/github.svg" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mithun0017">
+<img src="assets/icons/social/linkedin.svg" width="45"/>
+</a>
+
+<a href="mailto:mithun200617@gmail.com">
+<img src="assets/icons/social/gmail.svg" width="45"/>
+</a>
+
+<a href="https://instagram.com/_mithun0017">
+<img src="assets/icons/social/instagram.svg" width="45"/>
+</a>
+
+<a href="https://x.com/Mithun1710">
+<img src="assets/icons/social/x.svg" width="45"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and starring the repositories that you find useful.
+
+**Happy Coding! 🚀**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mithun0017&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+<p align="right">
+
+<a href="#top">⬆ Back to Top</a>
+
+</p>
+
+<!-- ========================================================= -->
+<!--                      END OF README                        -->
+<!-- ========================================================= -->
