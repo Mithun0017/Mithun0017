@@ -419,3 +419,102 @@ NEXT ── Ship the Skill Exchange Platform MVP; publish Sign2Speech findings;
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" width="100%" alt="" />
 
 </div>
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Programming Languages
+
+<img src="icons/python.svg" width="55"/>
+<img src="icons/java.svg" width="55"/>
+<img src="icons/c.svg" width="55"/>
+<img src="icons/cpp.svg" width="55"/>
+<img src="icons/javascript.svg" width="55"/>
+<img src="icons/php.svg" width="55"/>
+
+---
+
+### Frontend
+
+<img src="icons/html.svg" width="55"/>
+<img src="icons/css.svg" width="55"/>
+<img src="icons/react.svg" width="55"/>
+<img src="icons/bootstrap.svg" width="55"/>
+
+---
+
+### Backend
+
+<img src="icons/nodejs.svg" width="55"/>
+<img src="icons/flask.svg" width="55"/>
+
+---
+
+### AI • ML • Data Science
+
+<img src="icons/python.svg" width="55"/>
+<img src="icons/pytorch.svg" width="55"/>
+<img src="icons/tensorflow.svg" width="55"/>
+<img src="icons/scikitlearn.svg" width="55"/>
+<img src="icons/opencv.svg" width="55"/>
+<img src="icons/pandas.svg" width="55"/>
+<img src="icons/numpy.svg" width="55"/>
+<img src="icons/matplotlib.svg" width="55"/>
+
+---
+
+### Databases
+
+<img src="icons/mysql.svg" width="55"/>
+<img src="icons/mongodb.svg" width="55"/>
+<img src="icons/sqlite.svg" width="55"/>
+<img src="icons/postgresql.svg" width="55"/>
+
+---
+
+### Cloud
+
+<img src="icons/azure.svg" width="55"/>
+<img src="icons/aws.svg" width="55"/>
+
+---
+
+### Version Control
+
+<img src="icons/git.svg" width="55"/>
+<img src="icons/github.svg" width="55"/>
+
+---
+
+### Development Tools
+
+<img src="icons/vscode.svg" width="55"/>
+<img src="icons/eclipse.svg" width="55"/>
+<img src="icons/pycharm.svg" width="55"/>
+<img src="icons/xampp.svg" width="55"/>
+<img src="icons/postman.svg" width="55"/>
+<img src="icons/npm.svg" width="55"/>
+
+---
+
+### Creative Suite
+
+<img src="icons/photoshop.svg" width="55"/>
+<img src="icons/illustrator.svg" width="55"/>
+<img src="icons/premiere.svg" width="55"/>
+<img src="icons/aftereffects.svg" width="55"/>
+<img src="icons/indesign.svg" width="55"/>
+<img src="icons/lightroom.svg" width="55"/>
+<img src="icons/coreldraw.svg" width="55"/>
+
+---
+
+### Microsoft Office
+
+<img src="icons/word.svg" width="55"/>
+<img src="icons/excel.svg" width="55"/>
+<img src="icons/powerpoint.svg" width="55"/>
+<img src="icons/access.svg" width="55"/>
+<img src="icons/outlook.svg" width="55"/>
+
+</div>
