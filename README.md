@@ -1097,3 +1097,221 @@ Competitions
 <!-- ========================================================= -->
 <!--         END OF COMPETITIVE PROGRAMMING SECTION            -->
 <!-- ========================================================= -->
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+> **A selection of projects that combine software engineering, creativity, and problem solving.**
+
+</div>
+
+---
+
+## 💰 ExpenseFlow
+
+<p align="center">
+
+<img src="assets/projects/expenseflow.png" width="900"/>
+
+</p>
+
+### 📌 Overview
+
+A complete Excel-based expense management system featuring VBA automation, dashboards, Power Query, Power Pivot, analytics, budgeting, debt settlement, and financial insights.
+
+### ⚙ Tech
+
+<div align="center">
+
+<img src="assets/icons/microsoft/excel.svg" width="48"/>
+<img src="assets/icons/languages/vba.svg" width="48"/>
+<img src="assets/icons/database/sqlite.svg" width="48"/>
+
+</div>
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mithun0017)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
+
+---
+
+## 🤟 Sign2Speech
+
+<p align="center">
+
+<img src="assets/projects/sign2speech.png" width="900"/>
+
+</p>
+
+### 📌 Overview
+
+Desktop application that converts sign language into speech using computer vision and AI with a modern PyQt6 interface.
+
+### ⚙ Tech
+
+<div align="center">
+
+<img src="assets/icons/languages/python.svg" width="48"/>
+<img src="assets/icons/ai/opencv.svg" width="48"/>
+<img src="assets/icons/ai/tensorflow.svg" width="48"/>
+<img src="assets/icons/backend/flask.svg" width="48"/>
+
+</div>
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mithun0017)
+
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+
+</div>
+
+---
+
+## 🔒 Secure Messaging Platform
+
+<p align="center">
+
+<img src="assets/projects/chatapp.png" width="900"/>
+
+</p>
+
+### 📌 Overview
+
+Modern encrypted real-time messaging platform with authentication, media sharing, channels, groups, dark UI, and scalable architecture.
+
+### ⚙ Tech
+
+<div align="center">
+
+<img src="assets/icons/languages/python.svg" width="48"/>
+<img src="assets/icons/backend/flask.svg" width="48"/>
+<img src="assets/icons/database/sqlite.svg" width="48"/>
+<img src="assets/icons/devtools/socketio.svg" width="48"/>
+
+</div>
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mithun0017)
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
+
+---
+
+## 🌦 Weather Dashboard
+
+<p align="center">
+
+<img src="assets/projects/weather.png" width="900"/>
+
+</p>
+
+### 📌 Overview
+
+Responsive weather application with live forecasts, geolocation, interactive charts, theme switching, and clean UI.
+
+### ⚙ Tech
+
+<div align="center">
+
+<img src="assets/icons/frontend/html.svg" width="48"/>
+<img src="assets/icons/frontend/css.svg" width="48"/>
+<img src="assets/icons/languages/javascript.svg" width="48"/>
+
+</div>
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mithun0017)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
+
+---
+
+## 🏓 Ping Pong Collection
+
+<p align="center">
+
+<img src="assets/projects/pingpong.png" width="900"/>
+
+</p>
+
+### 📌 Overview
+
+Collection of classic and modern Ping Pong games implemented using multiple technologies for learning and experimentation.
+
+### ⚙ Tech
+
+<div align="center">
+
+<img src="assets/icons/languages/javascript.svg" width="48"/>
+<img src="assets/icons/frontend/html.svg" width="48"/>
+<img src="assets/icons/frontend/css.svg" width="48"/>
+
+</div>
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mithun0017)
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧪 Project Lab
+
+<p align="center">
+
+<img src="assets/projects/projectlab.png" width="900"/>
+
+</p>
+
+### 📌 Overview
+
+A personal playground for experimenting with new technologies, algorithms, UI concepts, automation, and creative ideas.
+
+### ⚙ Tech
+
+<div align="center">
+
+<img src="assets/icons/languages/python.svg" width="48"/>
+<img src="assets/icons/languages/javascript.svg" width="48"/>
+<img src="assets/icons/devtools/git.svg" width="48"/>
+
+</div>
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mithun0017)
+
+![Status](https://img.shields.io/badge/Status-Always%20Evolving-blue?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Every project is an opportunity to learn, iterate, and build something better than the last.
+
+</div>
+
+<!-- ========================================================= -->
+<!--                END OF FEATURED PROJECTS                   -->
+<!-- ========================================================= -->
