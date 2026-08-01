@@ -909,3 +909,191 @@ design with powerful engineering.
 <!-- ========================================================= -->
 <!--                END OF PART 2                              -->
 <!-- ========================================================= -->
+
+<!-- ========================================================= -->
+<!--            COMPETITIVE PROGRAMMING DASHBOARD              -->
+<!-- ========================================================= -->
+
+# 🏆 Competitive Programming
+
+<div align="center">
+
+> **Sharpening problem-solving skills through consistent practice across multiple coding platforms.**
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="assets/icons/coding/leetcode.svg" width="70">
+
+### LeetCode
+
+Data Structures  
+Algorithms  
+SQL  
+Problem Solving
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/View%20Profile-F89F1B?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="assets/icons/coding/hackerrank.svg" width="70">
+
+### HackerRank
+
+Programming
+
+Problem Solving
+
+SQL
+
+Python
+
+Java
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/View%20Profile-00EA64?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="assets/icons/coding/gfg.svg" width="70">
+
+### GeeksforGeeks
+
+DSA
+
+Practice
+
+Coding Courses
+
+Contests
+
+<a href="https://www.geeksforgeeks.org/user/">
+<img src="https://img.shields.io/badge/View%20Profile-2F8D46?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="assets/icons/coding/codechef.svg" width="70">
+
+### CodeChef
+
+Competitive Programming
+
+Contests
+
+Algorithms
+
+<a href="https://www.codechef.com/users/">
+<img src="https://img.shields.io/badge/View%20Profile-8B4513?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="assets/icons/coding/codeforces.svg" width="70">
+
+### Codeforces
+
+Competitive Programming
+
+Rated Contests
+
+Algorithms
+
+<a href="https://codeforces.com/profile/">
+<img src="https://img.shields.io/badge/View%20Profile-3B82F6?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="assets/icons/coding/unstop.svg" width="70">
+
+### Unstop
+
+Hackathons
+
+Challenges
+
+Competitions
+
+<a href="https://unstop.com/u/">
+<img src="https://img.shields.io/badge/View%20Profile-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📈 Problem Solving Journey
+
+<div align="center">
+
+| Platform | Focus Area | Status |
+|:---------:|:----------:|:------:|
+| 🟨 LeetCode | DSA & Interview Prep | 🚀 Active |
+| 🟩 HackerRank | Problem Solving & SQL | 🚀 Active |
+| 🟢 GeeksforGeeks | DSA Practice | 🚀 Active |
+| 🟤 CodeChef | Competitive Programming | 🌱 Learning |
+| 🔵 Codeforces | Competitive Programming | 🌱 Learning |
+| 🟣 Unstop | Challenges & Assessments | 🚀 Active |
+
+</div>
+
+---
+
+# 🎯 Coding Goals
+
+<div align="center">
+
+| Goal | Progress |
+|------|----------|
+| 🧩 Master Data Structures | ███████░░░ |
+| ⚙️ Master Algorithms | ██████░░░░ |
+| 💻 Competitive Programming | █████░░░░░ |
+| 🚀 Interview Preparation | ███████░░░ |
+| 🧠 Problem Solving Consistency | ████████░░ |
+
+</div>
+
+---
+
+# 📊 Coding Philosophy
+
+<div align="center">
+
+> **"Every solved problem is one step closer to becoming a better engineer."**
+
+</div>
+
+<!-- ========================================================= -->
+<!--         END OF COMPETITIVE PROGRAMMING SECTION            -->
+<!-- ========================================================= -->
