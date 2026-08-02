@@ -97,65 +97,48 @@ B.Tech CSE student at **SRM Institute of Science and Technology, Chennai**, buil
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr" alt="Design & Creative" height="50"/>
 
-</div>
+<br/><br/>
 
+**Programming Languages & Databases**
 <br/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,mysql" alt="Languages & Databases" height="50"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" title="SQL" alt="SQL"/>
 
-<div align="center">
+<br/><br/>
 
-<details>
-<summary>🛠️ Programming Languages & Databases</summary>
+**Adobe CS3 Master Collection**
 <br/>
+<img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=58A6FF" title="Image editing & design" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=38BDF8" title="Vector graphics & illustrations" alt="Illustrator"/>
+<img src="https://img.shields.io/badge/InDesign-0D1117?style=for-the-badge&logo=adobeindesign&logoColor=8B5CF6" title="Print & layout design" alt="InDesign"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-0D1117?style=for-the-badge&logo=adobepremierepro&logoColor=58A6FF" title="Video editing" alt="Premiere Pro"/>
+<img src="https://img.shields.io/badge/After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects&logoColor=38BDF8" title="Motion graphics & VFX" alt="After Effects"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Flash_Professional-0D1117?style=for-the-badge&logoColor=8B5CF6" title="Interactive content & animation" alt="Flash Professional"/>
+<img src="https://img.shields.io/badge/Dreamweaver-0D1117?style=for-the-badge&logo=adobedreamweaver&logoColor=58A6FF" title="Web design & development" alt="Dreamweaver"/>
+<img src="https://img.shields.io/badge/Fireworks-0D1117?style=for-the-badge&logoColor=38BDF8" title="Web image optimization" alt="Fireworks"/>
+<img src="https://img.shields.io/badge/Encore-0D1117?style=for-the-badge&logoColor=8B5CF6" title="DVD authoring" alt="Encore"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Soundbooth-0D1117?style=for-the-badge&logoColor=58A6FF" title="Audio editing & mixing" alt="Soundbooth"/>
+<img src="https://img.shields.io/badge/Acrobat_Pro-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=38BDF8" title="PDF creation & editing" alt="Acrobat Pro"/>
+<img src="https://img.shields.io/badge/Bridge-0D1117?style=for-the-badge&logoColor=8B5CF6" title="File browsing & asset management" alt="Bridge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Device_Central-0D1117?style=for-the-badge&logoColor=58A6FF" title="Mobile content testing" alt="Device Central"/>
+<img src="https://img.shields.io/badge/Version_Cue-0D1117?style=for-the-badge&logoColor=38BDF8" title="File versioning & collaboration" alt="Version Cue"/>
 
-- Python 🐍
-- C 💻
-- C++ 💻
-- HTML 🌐
-- CSS 🎨
-- JavaScript 🧠
-- SQL 🗃️
-- MySQL 🐬
+<br/><br/>
 
-</details>
-
+**Microsoft Office 2019 Professional Plus**
 <br/>
-
-<details>
-<summary>🎨 Creative Suite (Adobe CS3 Master Collection)</summary>
-<br/>
-
-- Adobe Photoshop 🎨 – Image editing & design
-- Adobe Illustrator ✏️ – Vector graphics & illustrations
-- Adobe InDesign 📘 – Print & layout design
-- Adobe Premiere Pro 🎬 – Video editing
-- Adobe After Effects ✨ – Motion graphics & VFX
-- Adobe Flash Professional ⚡ – Interactive content & animation
-- Adobe Dreamweaver 🌐 – Web design & development
-- Adobe Fireworks 🖼️ – Web image optimization
-- Adobe Encore 📀 – DVD authoring
-- Adobe Soundbooth 🎧 – Audio editing & mixing
-- Adobe Acrobat Pro 📄 – PDF creation & editing
-- Adobe Bridge 📂 – File browsing & asset management
-- Adobe Device Central 📱 – Mobile content testing
-- Adobe Version Cue 🔁 – File versioning & collaboration
-
-</details>
-
-<br/>
-
-<details>
-<summary>💼 Microsoft Office 2019 Professional Plus</summary>
-<br/>
-
-- Microsoft Word 📄 – Document creation & editing
-- Microsoft Excel 📊 – Data analysis & spreadsheets
-- Microsoft PowerPoint 📽️ – Presentations & slideshows
-- Microsoft Outlook 📧 – Email & calendar management
-- Microsoft OneNote 🗒️ – Digital note-taking
-- Microsoft Publisher 📰 – Desktop publishing & layouts
-- Microsoft Access 🗃️ – Database management
-
-</details>
+<img src="https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logo=microsoftword&logoColor=58A6FF" title="Document creation & editing" alt="Word"/>
+<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" title="Data analysis & spreadsheets" alt="Excel"/>
+<img src="https://img.shields.io/badge/PowerPoint-0D1117?style=for-the-badge&logo=microsoftpowerpoint&logoColor=8B5CF6" title="Presentations & slideshows" alt="PowerPoint"/>
+<img src="https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" title="Email & calendar management" alt="Outlook"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/OneNote-0D1117?style=for-the-badge&logo=microsoftonenote&logoColor=38BDF8" title="Digital note-taking" alt="OneNote"/>
+<img src="https://img.shields.io/badge/Publisher-0D1117?style=for-the-badge&logoColor=8B5CF6" title="Desktop publishing & layouts" alt="Publisher"/>
+<img src="https://img.shields.io/badge/Access-0D1117?style=for-the-badge&logo=microsoftaccess&logoColor=58A6FF" title="Database management" alt="Access"/>
 
 </div>
 
