@@ -322,29 +322,6 @@ Membership, scheduling, and billing management system for small gyms — CRUD-he
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ============================================================ -->
-<!--  TIMELINE                                                    -->
-<!-- ============================================================ -->
-
-## <img src="https://img.shields.io/badge/-07-0D1117?style=flat-square&color=58A6FF" height="20"/> Timeline
-
-```
-2025 ── Started structured certification tracks:
-        Anthropic (Skilljar), IBM SkillsBuild (Data Analytics + Cybersecurity), AWS AI Practitioner
-
-2025 ── Built ExpenseFlow — full VBA/Power Query/Power Pivot financial system
-
-2025 ── UMD Robert H. Smith School: AI and Career Empowerment certificate
-
-2026 ── Sign2Speech in active development — 4-person team, PyQt6, CNN+LSTM ASL recognition
-
-2026 ── Planning the Community Skill Exchange Platform — FastAPI + Gemini embeddings, AWS
-
-NOW  ── Deepening applied AI/ML and agentic systems; expanding full-stack + security depth
-
-NEXT ── Ship the Skill Exchange Platform MVP; publish Sign2Speech findings; 
-        keep compounding across AI, data, security, and software
-```
-
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ============================================================ -->
