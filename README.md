@@ -1,34 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mithun</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm passionate about transforming ideas into visuals through code.
-- 💡 Always curious to explore **tech + art**.
-- 🚀 Love building fun projects and automating stuffs.
-
-
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun0017)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithun0017)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mithun0017)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x-formerly-twitter&logoColor=white)](https://x.com/mithun1710)
-
-
 <div align="center">
-
-<!-- ============================================================ -->
-<!--  HEADER                                                      -->
-<!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=MITHUN&fontSize=70&fontColor=58A6FF&fontAlignY=38&desc=Building%20across%20AI%20%C2%B7%20Data%20%C2%B7%20Security%20%C2%B7%20Software&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%" alt="Mithun banner" />
 
@@ -43,6 +13,8 @@
 <a href="https://linkedin.com/in/Mithun0017"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117" alt="LinkedIn" title="Connect on LinkedIn" /></a>
 <a href="mailto:mithun0017@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0D1117" alt="Email" title="Send an email" /></a>
 <a href="https://github.com/Mithun0017"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0D1117" alt="GitHub" title="View GitHub profile" /></a>
+<a href="https://instagram.com/_mithun0017"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=38BDF8&labelColor=0D1117" alt="Instagram" title="Follow on Instagram" /></a>
+<a href="https://x.com/mithun1710"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=F8FAFC&labelColor=0D1117" alt="X" title="Follow on X" /></a>
 
 <br/><br/>
 
@@ -56,11 +28,19 @@
 
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
+<br/>
+
+## <img src="https://img.shields.io/badge/-01-0D1117?style=flat-square&color=58A6FF" height="20"/> About Me
+
+- 🎓 Passionate about transforming ideas into visuals through code.
+- 💡 Always curious to explore **tech + art**.
+- 🚀 Loves building fun projects and automating stuff.
+
+<br/>
+
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ============================================================ -->
-<!--  TECH STACK                                                  -->
-<!-- ============================================================ -->
+<br/>
 
 ## <img src="https://img.shields.io/badge/-02-0D1117?style=flat-square&color=58A6FF" height="20"/> Tech Stack
 
@@ -90,11 +70,11 @@
 
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=38BDF8" title="Git" alt="Git"/> <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" title="GitHub Actions" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=8B5CF6" title="Docker" alt="Docker"/> <img src="https://img.shields.io/badge/Excel_VBA-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" title="Excel VBA / Power Query / Power Pivot" alt="Excel VBA"/> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF" title="VS Code" alt="VS Code"/>
 
+<br/>
+
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ============================================================ -->
-<!--  COMPETITIVE PROGRAMMING                                     -->
-<!-- ============================================================ -->
+<br/>
 
 ## <img src="https://img.shields.io/badge/-03-0D1117?style=flat-square&color=58A6FF" height="20"/> Competitive Programming
 
@@ -107,44 +87,46 @@
 <a href="https://www.geeksforgeeks.org/user/Mithun0017"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=8B5CF6" title="GeeksforGeeks profile" alt="GeeksforGeeks"/></a>
 <a href="https://www.codechef.com/users/Mithun0017"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=58A6FF" title="CodeChef profile" alt="CodeChef"/></a>
 <a href="https://codeforces.com/profile/Mithun0017"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=38BDF8" title="Codeforces profile" alt="Codeforces"/></a>
-<a href="https://unstop.com/u/Mithun0017"><img src="https://img.shields.io/badge/Unstop-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=8B5CF6" title="Unstop profile" alt="Unstop"/></a>
+<a href="https://unstop.com/u/Mithun0017"><img src="https://img.shields.io/badge/Unstop-0D1117?style=for-the-badge&logoColor=8B5CF6" title="Unstop profile" alt="Unstop"/></a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/Mithun0017?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats card" width="65%"/>
 
 </div>
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Mithun0017?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats card" width="500"/>
-</div>
+<br/>
 
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
+<br/>
 
-
-<!-- ============================================================ -->
-<!--  GITHUB DASHBOARD                                            -->
-<!-- ============================================================ -->
-
-## <img src="https://img.shields.io/badge/-05-0D1117?style=flat-square&color=58A6FF" height="20"/> GitHub Dashboard
+## <img src="https://img.shields.io/badge/-04-0D1117?style=flat-square&color=58A6FF" height="20"/> GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mithun0017&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Mithun0017&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithun0017&theme=transparent&hide_border=true&background=00000000&ring=58A6FF&fire=38BDF8&currStreakLabel=58A6FF&sideLabels=94A3B8&dates=94A3B8" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun0017&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=94A3B8&bg_color=00000000&langs_count=8" width="49%" alt="Top Languages"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Mithun0017&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="49%" alt="Trophies"/>
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mithun0017&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=94A3B8&bg_color=00000000&langs_count=8" width="60%" alt="Top Languages"/>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithun0017&theme=react-dark&bg_color=00000000&color=58A6FF&line=38BDF8&point=8B5CF6&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
-<!-- ============================================================ -->
+<br/>
+
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ============================================================ -->
-<!--  FOOTER                                                      -->
-<!-- ============================================================ -->
+<br/>
 
 <div align="center">
 
@@ -164,10 +146,6 @@
 
 <a href="#top"><img src="https://img.shields.io/badge/Back_to_Top-161B22?style=for-the-badge&logo=arrowup&logoColor=58A6FF" alt="Back to top"/></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" width="100%" alt="" />
-
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" width="100%" alt="" />
