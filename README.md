@@ -102,43 +102,42 @@ B.Tech CSE student at **SRM Institute of Science and Technology, Chennai**, buil
 **Programming Languages & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,mysql" alt="Languages & Databases" height="50"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=58A6FF" title="SQL" alt="SQL"/>
 
 <br/><br/>
 
 **Adobe CS3 Master Collection**
 <br/>
-<img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=58A6FF" title="Image editing & design" alt="Photoshop"/>
-<img src="https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=38BDF8" title="Vector graphics & illustrations" alt="Illustrator"/>
-<img src="https://img.shields.io/badge/InDesign-0D1117?style=for-the-badge&logo=adobeindesign&logoColor=8B5CF6" title="Print & layout design" alt="InDesign"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-0D1117?style=for-the-badge&logo=adobepremierepro&logoColor=58A6FF" title="Video editing" alt="Premiere Pro"/>
-<img src="https://img.shields.io/badge/After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects&logoColor=38BDF8" title="Motion graphics & VFX" alt="After Effects"/>
+<sub><i>skillicons.dev only has icons for these 4 — the rest of the CS3 suite (InDesign, Flash, Dreamweaver, Fireworks, Encore, Soundbooth, Acrobat, Bridge, Device Central, Version Cue) has no icon in any icon pack, since they're discontinued products.</i></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/Flash_Professional-0D1117?style=for-the-badge&logoColor=8B5CF6" title="Interactive content & animation" alt="Flash Professional"/>
-<img src="https://img.shields.io/badge/Dreamweaver-0D1117?style=for-the-badge&logo=adobedreamweaver&logoColor=58A6FF" title="Web design & development" alt="Dreamweaver"/>
-<img src="https://img.shields.io/badge/Fireworks-0D1117?style=for-the-badge&logoColor=38BDF8" title="Web image optimization" alt="Fireworks"/>
-<img src="https://img.shields.io/badge/Encore-0D1117?style=for-the-badge&logoColor=8B5CF6" title="DVD authoring" alt="Encore"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" alt="Adobe (icon-supported)" height="50"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Soundbooth-0D1117?style=for-the-badge&logoColor=58A6FF" title="Audio editing & mixing" alt="Soundbooth"/>
-<img src="https://img.shields.io/badge/Acrobat_Pro-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=38BDF8" title="PDF creation & editing" alt="Acrobat Pro"/>
-<img src="https://img.shields.io/badge/Bridge-0D1117?style=for-the-badge&logoColor=8B5CF6" title="File browsing & asset management" alt="Bridge"/>
+<img src="https://img.shields.io/badge/InDesign-0D1117?style=for-the-badge&logoColor=58A6FF" alt="InDesign"/>
+<img src="https://img.shields.io/badge/Flash_Professional-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Flash Professional"/>
+<img src="https://img.shields.io/badge/Dreamweaver-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Dreamweaver"/>
+<img src="https://img.shields.io/badge/Fireworks-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Fireworks"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Device_Central-0D1117?style=for-the-badge&logoColor=58A6FF" title="Mobile content testing" alt="Device Central"/>
-<img src="https://img.shields.io/badge/Version_Cue-0D1117?style=for-the-badge&logoColor=38BDF8" title="File versioning & collaboration" alt="Version Cue"/>
+<img src="https://img.shields.io/badge/Encore-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Encore"/>
+<img src="https://img.shields.io/badge/Soundbooth-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Soundbooth"/>
+<img src="https://img.shields.io/badge/Acrobat_Pro-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Acrobat Pro"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Bridge-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Bridge"/>
+<img src="https://img.shields.io/badge/Device_Central-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Device Central"/>
+<img src="https://img.shields.io/badge/Version_Cue-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Version Cue"/>
 
 <br/><br/>
 
 **Microsoft Office 2019 Professional Plus**
 <br/>
-<img src="https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logo=microsoftword&logoColor=58A6FF" title="Document creation & editing" alt="Word"/>
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" title="Data analysis & spreadsheets" alt="Excel"/>
-<img src="https://img.shields.io/badge/PowerPoint-0D1117?style=for-the-badge&logo=microsoftpowerpoint&logoColor=8B5CF6" title="Presentations & slideshows" alt="PowerPoint"/>
-<img src="https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF" title="Email & calendar management" alt="Outlook"/>
+<sub><i>No icon pack (skillicons.dev, Simple Icons, or Devicon) has Office app icons — shown as text badges instead.</i></sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/OneNote-0D1117?style=for-the-badge&logo=microsoftonenote&logoColor=38BDF8" title="Digital note-taking" alt="OneNote"/>
-<img src="https://img.shields.io/badge/Publisher-0D1117?style=for-the-badge&logoColor=8B5CF6" title="Desktop publishing & layouts" alt="Publisher"/>
-<img src="https://img.shields.io/badge/Access-0D1117?style=for-the-badge&logo=microsoftaccess&logoColor=58A6FF" title="Database management" alt="Access"/>
+<img src="https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Word"/>
+<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Excel"/>
+<img src="https://img.shields.io/badge/PowerPoint-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="PowerPoint"/>
+<img src="https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Outlook"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/OneNote-0D1117?style=for-the-badge&logoColor=38BDF8" alt="OneNote"/>
+<img src="https://img.shields.io/badge/Publisher-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Publisher"/>
+<img src="https://img.shields.io/badge/Access-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Access"/>
 
 </div>
 
