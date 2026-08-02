@@ -101,6 +101,66 @@ B.Tech CSE student at **SRM Institute of Science and Technology, Chennai**, buil
 
 <br/>
 
+<div align="center">
+
+<details>
+<summary>🛠️ Programming Languages & Databases</summary>
+<br/>
+
+- Python 🐍
+- C 💻
+- C++ 💻
+- HTML 🌐
+- CSS 🎨
+- JavaScript 🧠
+- SQL 🗃️
+- MySQL 🐬
+
+</details>
+
+<br/>
+
+<details>
+<summary>🎨 Creative Suite (Adobe CS3 Master Collection)</summary>
+<br/>
+
+- Adobe Photoshop 🎨 – Image editing & design
+- Adobe Illustrator ✏️ – Vector graphics & illustrations
+- Adobe InDesign 📘 – Print & layout design
+- Adobe Premiere Pro 🎬 – Video editing
+- Adobe After Effects ✨ – Motion graphics & VFX
+- Adobe Flash Professional ⚡ – Interactive content & animation
+- Adobe Dreamweaver 🌐 – Web design & development
+- Adobe Fireworks 🖼️ – Web image optimization
+- Adobe Encore 📀 – DVD authoring
+- Adobe Soundbooth 🎧 – Audio editing & mixing
+- Adobe Acrobat Pro 📄 – PDF creation & editing
+- Adobe Bridge 📂 – File browsing & asset management
+- Adobe Device Central 📱 – Mobile content testing
+- Adobe Version Cue 🔁 – File versioning & collaboration
+
+</details>
+
+<br/>
+
+<details>
+<summary>💼 Microsoft Office 2019 Professional Plus</summary>
+<br/>
+
+- Microsoft Word 📄 – Document creation & editing
+- Microsoft Excel 📊 – Data analysis & spreadsheets
+- Microsoft PowerPoint 📽️ – Presentations & slideshows
+- Microsoft Outlook 📧 – Email & calendar management
+- Microsoft OneNote 🗒️ – Digital note-taking
+- Microsoft Publisher 📰 – Desktop publishing & layouts
+- Microsoft Access 🗃️ – Database management
+
+</details>
+
+</div>
+
+<br/>
+
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
 <br/>
