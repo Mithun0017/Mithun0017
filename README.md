@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=MITHUN&fontSize=70&fontColor=58A6FF&fontAlignY=38&desc=Building%20across%20AI%20%C2%B7%20Data%20%C2%B7%20Security%20%C2%B7%20Software&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%" alt="Mithun banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=MITHUN&fontSize=70&fontColor=58A6FF&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%40%20SRM%20IST%20Chennai&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%" alt="Mithun banner" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Multidisciplinary+Technical+Builder;AI+%2F+ML+%C2%B7+Data+Science+%C2%B7+Cybersecurity+%C2%B7+Cloud;Chennai%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=AI+%C2%B7+ML+%C2%B7+Data+Science+%C2%B7+Cloud+%C2%B7+Cybersecurity;Full+Stack+Dev+%C2%B7+UI%2FUX+%C2%B7+Graphic+Design;Motion+Graphics+%C2%B7+Video+Editing" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 
 ## <img src="https://img.shields.io/badge/-01-0D1117?style=flat-square&color=58A6FF" height="20"/> About Me
 
-I'm building a multidisciplinary technical portfolio across **AI/ML, data science, cybersecurity, and software development**, based in Chennai, India. I like turning ideas into real, working products — and backing that up with hands-on certifications along the way.
+B.Tech CSE student at **SRM Institute of Science and Technology, Chennai**, building a multidisciplinary portfolio across **AI/ML, data science, cloud, cybersecurity, full stack development, UI/UX, graphic design, motion graphics, and video editing**. I like turning ideas into real, working products — and backing that up with hands-on certifications along the way.
 
 **Currently building**
 
@@ -90,6 +90,12 @@ I'm building a multidisciplinary technical portfolio across **AI/ML, data scienc
 <img src="https://skillicons.dev/icons?i=git,githubactions,docker,vscode" alt="DevOps & Tools" height="50"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Excel_VBA-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" title="Excel VBA / Power Query / Power Pivot" alt="Excel VBA"/>
+
+<br/><br/>
+
+**Design & Creative**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,pr" alt="Design & Creative" height="50"/>
 
 </div>
 
