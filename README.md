@@ -47,25 +47,25 @@
 <div align="center">
 
 **Languages**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,mysql" alt="Languages" height="50"/>
 
 <br/><br/>
 
 **Frontend**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" height="50"/>
 
 <br/><br/>
 
 **Backend & Frameworks**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,qt" alt="Backend" height="50"/>
 
 <br/><br/>
 
 **AI · ML · Data Science**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy" alt="AI/ML" height="50"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Google_Gemini_API-0D1117?style=for-the-badge&logo=googlegemini&logoColor=58A6FF" title="Google Gemini API" alt="Gemini"/> <img src="https://img.shields.io/badge/Anthropic_API-0D1117?style=for-the-badge&logo=anthropic&logoColor=8B5CF6" title="Anthropic API / Claude" alt="Anthropic API"/>
@@ -73,13 +73,13 @@
 <br/><br/>
 
 **Databases & Cloud**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,gcp" alt="Databases & Cloud" height="50"/>
 
 <br/><br/>
 
 **DevOps, Tools & Data Platforms**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,githubactions,docker,vscode" alt="DevOps & Tools" height="50"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Excel_VBA-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" title="Excel VBA / Power Query / Power Pivot" alt="Excel VBA"/>
