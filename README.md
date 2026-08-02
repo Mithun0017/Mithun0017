@@ -17,48 +17,7 @@ You can click the Preview link to take a look at your changes.
 - 🚀 Love building fun projects and automating stuffs.
 
 
----
 
-### 🛠️ Tech Stack
-
-```yaml
-Programming Languages & Databases:
-  - Python 🐍
-  - C 💻
-  - C++ 💻
-  - HTML 🌐
-  - CSS 🎨
-  - JavaScript 🧠
-  - React ⚛️
-  - MySQL 🐬
-  - PHP 🐘
-
-Creative Suite (Adobe CS3 Master Collection):
-  - Adobe Photoshop 🎨 – Image editing & design
-  - Adobe Illustrator ✏️ – Vector graphics & illustrations
-  - Adobe InDesign 📘 – Print & layout design
-  - Adobe Premiere Pro 🎬 – Video editing
-  - Adobe After Effects ✨ – Motion graphics & VFX
-  - Adobe Flash Professional ⚡ – Interactive content & animation
-  - Adobe Dreamweaver 🌐 – Web design & development
-  - Adobe Fireworks 🖼️ – Web image optimization
-  - Adobe Encore 📀 – DVD authoring
-  - Adobe Soundbooth 🎧 – Audio editing & mixing
-  - Adobe Acrobat Pro 📄 – PDF creation & editing
-  - Adobe Bridge 📂 – File browsing & asset management
-  - Adobe Device Central 📱 – Mobile content testing
-  - Adobe Version Cue 🔁 – File versioning & collaboration
-
-Microsoft Office 2019 Professional Plus:
-  - Microsoft Word 📄 – Document creation & editing
-  - Microsoft Excel 📊 – Data analysis & spreadsheets
-  - Microsoft PowerPoint 📽️ – Presentations & slideshows
-  - Microsoft Outlook 📧 – Email & calendar management
-  - Microsoft OneNote 🗒️ – Digital note-taking
-  - Microsoft Publisher 📰 – Desktop publishing & layouts
-  - Microsoft Access 🗃️ – Database management
-
-```
 ---
 
 ## 🌐 Connect with Me
