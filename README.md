@@ -139,47 +139,6 @@
 
 </div>
 
-<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
-
-<!-- ============================================================ -->
-<!--  CERTIFICATIONS                                              -->
-<!-- ============================================================ -->
-
-## <img src="https://img.shields.io/badge/-06-0D1117?style=flat-square&color=58A6FF" height="20"/> Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Anthropic — Skilljar**
-<br/><sub>19 certifications: Claude development, Anthropic API, agentic AI, MCP, AWS Bedrock, Google Cloud Vertex AI</sub>
-<br/><img src="https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=58A6FF" alt="Anthropic"/>
-
-**IBM SkillsBuild — Data Analytics**
-<br/><sub>7-course track</sub>
-<br/><img src="https://img.shields.io/badge/IBM-0D1117?style=flat-square&logo=ibm&logoColor=38BDF8" alt="IBM"/>
-
-</td>
-<td width="50%" valign="top">
-
-**IBM SkillsBuild — Cybersecurity**
-<br/><sub>7 certifications</sub>
-<br/><img src="https://img.shields.io/badge/IBM-0D1117?style=flat-square&logo=ibm&logoColor=8B5CF6" alt="IBM"/>
-
-**AWS AI Practitioner**
-<br/><sub>Learning Plan, completed</sub>
-<br/><img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=58A6FF" alt="AWS"/>
-
-**University of Maryland — Robert H. Smith School of Business**
-<br/><sub>AI and Career Empowerment certificate</sub>
-<br/><img src="https://img.shields.io/badge/University_of_Maryland-0D1117?style=flat-square&logo=googlescholar&logoColor=38BDF8" alt="UMD"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
-
 <!-- ============================================================ -->
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
