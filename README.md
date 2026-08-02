@@ -107,37 +107,32 @@ B.Tech CSE student at **SRM Institute of Science and Technology, Chennai**, buil
 
 **Adobe CS3 Master Collection**
 <br/>
-<sub><i>skillicons.dev only has icons for these 4 — the rest of the CS3 suite (InDesign, Flash, Dreamweaver, Fireworks, Encore, Soundbooth, Acrobat, Bridge, Device Central, Version Cue) has no icon in any icon pack, since they're discontinued products.</i></sub>
-<br/><br/>
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" alt="Adobe (icon-supported)" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/indesign.png" alt="InDesign" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/flash.png" alt="Flash Professional" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/dreamweaver.png" alt="Dreamweaver" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/fireworks.png" alt="Fireworks" height="50"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/InDesign-0D1117?style=for-the-badge&logoColor=58A6FF" alt="InDesign"/>
-<img src="https://img.shields.io/badge/Flash_Professional-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Flash Professional"/>
-<img src="https://img.shields.io/badge/Dreamweaver-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Dreamweaver"/>
-<img src="https://img.shields.io/badge/Fireworks-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Fireworks"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/encore.png" alt="Encore" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/soundbooth.png" alt="Soundbooth" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/acrobat.png" alt="Acrobat Pro" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/bridge.png" alt="Bridge" height="50"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Encore-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Encore"/>
-<img src="https://img.shields.io/badge/Soundbooth-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Soundbooth"/>
-<img src="https://img.shields.io/badge/Acrobat_Pro-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Acrobat Pro"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Bridge-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Bridge"/>
-<img src="https://img.shields.io/badge/Device_Central-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Device Central"/>
-<img src="https://img.shields.io/badge/Version_Cue-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Version Cue"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/device-central.png" alt="Device Central" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/version-cue.png" alt="Version Cue" height="50"/>
 
 <br/><br/>
 
 **Microsoft Office 2019 Professional Plus**
 <br/>
-<sub><i>No icon pack (skillicons.dev, Simple Icons, or Devicon) has Office app icons — shown as text badges instead.</i></sub>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/word.png" alt="Word" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/excel.png" alt="Excel" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/powerpoint.png" alt="PowerPoint" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/outlook.png" alt="Outlook" height="50"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Word"/>
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Excel"/>
-<img src="https://img.shields.io/badge/PowerPoint-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="PowerPoint"/>
-<img src="https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Outlook"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/OneNote-0D1117?style=for-the-badge&logoColor=38BDF8" alt="OneNote"/>
-<img src="https://img.shields.io/badge/Publisher-0D1117?style=for-the-badge&logoColor=8B5CF6" alt="Publisher"/>
-<img src="https://img.shields.io/badge/Access-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Access"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/onenote.png" alt="OneNote" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/publisher.png" alt="Publisher" height="50"/>
+<img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/icons/access.png" alt="Access" height="50"/>
 
 </div>
 
