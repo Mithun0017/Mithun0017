@@ -56,29 +56,6 @@
 
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ============================================================ -->
-<!--  ABOUT                                                       -->
-<!-- ============================================================ -->
-
-## <img src="https://img.shields.io/badge/-01-0D1117?style=flat-square&color=58A6FF" height="20"/> About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mithun0017&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000" width="380" alt="GitHub stats" />
-
-I'm **Mithun**, a technical builder based in **Mumbai, India**, working across **AI/ML, data science, cybersecurity, and software development** rather than staying inside one lane. My approach: ship real, working systems — not tutorials — and use each one to go deeper into the next discipline.
-
-**Currently focused on**
-- Building production-shaped applications (desktop, web, and data tooling) end to end
-- Deepening applied AI/ML — model architecture, agentic systems, and API-driven tooling
-- Cybersecurity fundamentals through structured, hands-on certification tracks
-
-**Philosophy**
-> Depth in one language, breadth across disciplines. I'd rather finish something real than half-start ten things.
-
-**Currently learning:** applied ML architectures (CNN/LSTM pipelines), AI-assisted product design, secure backend architecture
-**Career objective:** build a portfolio that demonstrates end-to-end product ownership — from spec to shipped system — across AI, data, and security-conscious software.
-
-<br clear="right"/>
-
 <img src="https://github.com/Mithun0017/Mithun0017/raw/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ============================================================ -->
