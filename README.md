@@ -158,10 +158,6 @@
 
 <br/>
 
-<i>"Depth in one language, breadth across disciplines."</i>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Mithun0017&label=Thanks%20for%20visiting&color=8B5CF6&style=for-the-badge" alt="Visitor Counter"/>
 
 <br/><br/>
